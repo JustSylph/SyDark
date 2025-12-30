@@ -1,2 +1,6 @@
 # SyDark
-Character generator for Shadowdark RPG
+logo to be added
+# Description
+SyDark is a character generator for Shadowdark RPG
+# Legal
+SyDark is an independent product published under the Shadowdark RPG Third-Party License and is not affiliated with The Arcane Library, LLC. Shadowdark RPG © 2023 The Arcane Library, LLC.
